@@ -170,3 +170,40 @@ body {
   margin-bottom: 10px;
   width: 50px;
 }
+
+/*
+======================================
+Typography
+======================================
+*/
+h1,
+p {
+  color: white;
+  font-family: sans-serif;
+  margin-bottom: 22px;
+}
+h1 {
+  text-shadow: 2px 2px black;
+  float: left;
+  font-size: 2.5em;
+  font-family: "Crete Round", sans-serif;
+}
+p {
+  clear: both;
+  color: white;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+/*
+======================================
+Footer
+======================================
+*/
+footer a {
+  color: white;
+}
+i {
+  margin-right: 30px;
+  font-size: 30px;
+}
