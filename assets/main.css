@@ -141,8 +141,8 @@ Grid
   box-sizing: border-box;
 }
 body {
-  background-color: black;
-  background-image: url("img/sunset.jpeg");
+  background-color: #212832;
+  background-image: url("img/storm.jpeg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
@@ -151,7 +151,7 @@ body {
 }
 
 .wrapper {
-  background-color: grey;
+  background-color: black;
   float: right;
   margin: 80px 0 0 0;
   max-width: 420px;
